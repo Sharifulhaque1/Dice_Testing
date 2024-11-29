@@ -1,4 +1,4 @@
-# Dice_Testing Documentation [Manual_testing_5 ]
+# Dice_Testing Documentation [Manual_testing]
 
 ## Objective
 This document outlines the testing process for six-sided dice. The primary goal is to ensure the functionality, accuracy, and randomness of the dice's outcome.
